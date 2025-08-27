@@ -2,7 +2,7 @@
 
 Một ứng dụng web cho phép người dùng chuyển đổi các tệp video MP4 thành tệp âm thanh MP3. Ứng dụng có tính năng xác thực người dùng, cho phép người dùng xem lịch sử chuyển đổi và tải xuống các tệp đã chuyển đổi
 
-![Ảnh](https://postimg.cc/V0qBMkRd)
+[![audio.webp](https://i.postimg.cc/sx8nkBG9/audio.webp)](https://postimg.cc/V0qBMkRd)
 ## Tính năng
 
 *   **Xác thực người dùng**: Đăng ký, đăng nhập và đăng xuất.
